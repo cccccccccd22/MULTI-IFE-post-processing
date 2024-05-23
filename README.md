@@ -2,11 +2,11 @@
 
 data for computing turning point
 ***
-we use $nr=p$ to compute turning point, in data.h5 we have:
+we use $nr=p$ to compute turning point, in data1.h5 we have:
 
 dene1，electron number density($cm^{-3}$), $n^e$, $120 \times 130$ matrix
 
-x1，interface position(cm), r, $120 \times 130$ matrix
+xc1，center of cell coordinate(cm), r, $120 \times 130$ matrix
 
 time1, simulation time(s), $1 \times 130$ matrix
 
